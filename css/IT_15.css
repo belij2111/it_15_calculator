@@ -1,0 +1,23 @@
+.jsbel-calculator {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.jsbel-calculator .operations-block button {
+    width: 30px;
+    height: 30px;
+    margin: 20px;
+}
+
+.jsbel-calculator .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
+
+.jsbel-calculator .inputs-block .input-block label {
+    display: block;
+}
